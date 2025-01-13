@@ -7,10 +7,10 @@ This is our project for the modul "Objekt und Entwurf" (object creation) - this 
 
 ![image](https://github.com/user-attachments/assets/06453eb4-1cf6-4416-b9c2-906f6aaa9c13)
 
-The mouse has 4 files: Top, Mid, Bot and Full
-You find the files as .stl, .3mf and .obj
+You will find the complete mouse as "L1.O".stl, .3mf and .obj files and the pieces in a folder as .stl files
 
 
 
-The Files are free to use, also the editing of the files
+
+The Files are free to use, also the editing of the files 
 Don't use the Files and the remixed Files for commercial use
