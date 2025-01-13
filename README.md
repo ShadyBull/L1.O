@@ -9,8 +9,10 @@ This is our study-project for the modul "Objekt und Entwurf" (object creation) -
 
 You will find the complete mouse as "L1.O".stl, .f3d, .3mf and .obj files and the pieces in a folder as .stl files.
 
-The Bot piece is constructed for a Logitech M-BZ96C Mouse board (MOMBASA06)
+The Bot piece is constructed for a Logitech M-BZ96C Mouse board (MOMBASA06) - check the pictures below.
 
+![Case](https://github.com/user-attachments/assets/c6f5777e-d4a1-4641-b319-c59666ceb85a)
+![Board](https://github.com/user-attachments/assets/38fd31f0-318a-4651-96bb-09b1a3d6a4df)
 
 
 The Files are free to use, also the editing of the files. 
